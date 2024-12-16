@@ -1,1 +1,1 @@
-print("SERUS")
+print("Ahoj kámo")
