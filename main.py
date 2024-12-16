@@ -1,1 +1,1 @@
-print("Ahoj kámo")
+print("OwO what's this?")
