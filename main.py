@@ -1,1 +1,1 @@
-print("SERUS")
+print("OwO what's this?")
